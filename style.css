@@ -162,6 +162,19 @@ border-top-left-radius: 5px;
 box-shadow: 2px 0px 2px black;
 margin-bottom: 10px;
 }
+article h1 {
+    margin: 10px;
+}
+article h2 {
+    margin: 10px;
+}
+article h3 {
+    margin: 10px;
+}
+article .space {
+    font-size: 1.9em;
+    margin-bottom: 15px;
+}
 aside {
     border-radius: 5px;
     background-color: #002147;
